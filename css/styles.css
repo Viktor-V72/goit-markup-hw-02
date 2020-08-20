@@ -9,7 +9,6 @@
   color: #000000;
 
   font-family: Raleway, sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -23,8 +22,7 @@
 
 .nav .link {
   color: var(--title-text-color);
-  font-family: Roboto;
-  font-style: normal;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -41,8 +39,7 @@
 }
 .contact .link {
   color: var(--primary-text-color);
-  font-family: Roboto;
-  font-style: normal;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -60,9 +57,7 @@ body {
   background-color: #ffffff;
   color: var(--primary-text-color);
 
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 400;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -76,8 +71,6 @@ ul {
 .hero-title {
   color: #ffffff;
   background-color: #000000;
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -89,9 +82,7 @@ ul {
 
 .button {
   color: #ffffff;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
 
@@ -109,8 +100,7 @@ ul {
 
 .features .features-title {
   color: var(--title-text-color);
-  font-family: Roboto;
-  font-style: normal;
+
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -120,8 +110,7 @@ ul {
 
 .activity h2 {
   color: var(--title-text-color);
-  font-family: Roboto;
-  font-style: normal;
+
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -133,8 +122,7 @@ ul {
 
 .team h2 {
   color: var(--title-text-color);
-  font-family: Roboto;
-  font-style: normal;
+
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
@@ -147,8 +135,7 @@ ul {
 
 .team-list h3 {
   color: var(--title-text-color);
-  font-family: Roboto;
-  font-style: normal;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -179,7 +166,6 @@ ul {
 .filter {
   background-color: #f5f4fa;
   color: var(--title-text-color);
-  font-family: Roboto;
 
   font-weight: 500;
   font-size: 16px;
